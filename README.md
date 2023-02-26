@@ -1,4 +1,4 @@
-# adapt_edge_analysis_modification
+# Adapt edge analysis modification - inside cell borders
 Adjusted ADAPT plugin code by Leif Dehmelt
 
 This repository contains code to modify the ADAPT plugin originally publshed by Barry et al:
@@ -8,6 +8,8 @@ The original code is available at:
 https://github.com/djpbarry/Adapt
 and
 https://github.com/djpbarry/IAClassLibrary
+
+After implementing this modification, the analysis area is changed to only include data inside the cell borders.
 
 Changes in iaclasslibrary-1.0.6:
 
